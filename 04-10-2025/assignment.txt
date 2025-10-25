@@ -1,0 +1,7 @@
+# Assignment : 
+- Instead of using joblib for saving and loading artefact, using library called as pickle
+- Convert linear_regression_test.ipynb to predict_housing_medv class
+    - This class should have predict method, and you will ask user for input in terminal and 
+    present the output at the terminal
+    - For each input, have guiding range for each attribute
+    - for example : Please enter value zn (0-100) :    
